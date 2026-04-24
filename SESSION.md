@@ -1,7 +1,6 @@
 # SESSION.md
 
-> Update this file at the end of every session. Claude reads it at startup.
-> Keep it short — just enough to pick up cold.
+> Maintained by Claude. Read at the start of every session before responding.
 
 ---
 
@@ -9,14 +8,14 @@
 2026-04-23
 
 ## Current position
-Course 0 — Probability Foundations (Blitzstein, Stat 110). Not yet started lectures.
+Course 0 — Probability Foundations (Blitzstein, Stat 110). Lecture 1 complete.
 
 ## Where I stopped
-Set up the repo. Decided to do the full Stat 110 course (not just assess)
-because of the HarvardX edX certification. Haven't started lectures yet.
+Watched Lecture 1 (counting, probability basics). No deep discussion yet —
+just orientation. Lecture felt introductory, no friction reported.
 
 ## Open questions / things to return to
-- Enroll in HarvardX edX course (free audit): https://www.edx.org/course/introduction-to-probability
+- Enroll in HarvardX edX audit if pursuing cert
 
 ## Next action
-Watch Stat 110 Lecture 1 on YouTube. Enroll on edX if pursuing the cert.
+Read Chapter 1 of Blitzstein & Hwang to reinforce Lecture 1, then move to Lecture 2.

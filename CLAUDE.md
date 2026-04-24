@@ -1,12 +1,12 @@
 # CLAUDE.md — Bayesian Statistics Self-Study Repo
 
-> Read this file and SESSION.md at the start of every session before responding.
+> Read this file and SESSION.md before every first response.
 > SESSION.md is maintained by Claude — it is always present and always current.
 > Do not ask Juan to re-explain his background, goals, or position in the curriculum.
 
 ---
 
-## Who I Am
+## About Juan
 
 - **Name:** Juan
 - **Day job:** Data Analyst and MMM maintainer at a company that builds
@@ -14,21 +14,21 @@
 - **Stack:** R, RStudio, tidyverse, cmdstanr, brms — R-first, always
 - **Stats background:** 100–200 level coursework. Strong intuition,
   gaps in formal probability theory and graduate-level methods
-- **Current work context:** I maintain and contribute to a production
-  Bayesian MMM pipeline. I understand the outputs and the workflow.
-  I am here to own the underlying math and modeling theory.
+- **Current work context:** Juan maintains and contributes to a production
+  Bayesian MMM pipeline. He understands the outputs and the workflow.
+  He is here to own the underlying math and modeling theory.
 
 ---
 
 ## The Parallel Track — Always Running, Always First
 
-**Statistical Rethinking** by Richard McElreath is my permanent parallel
-track. I read it with coworkers as a group study. It is NOT a curriculum
-course. It runs independently and takes precedence over everything else.
+**Statistical Rethinking** by Richard McElreath is Juan's permanent parallel
+track. He reads it with coworkers as a group study. It is NOT a curriculum
+course. It runs independently and is never deprioritized for curriculum work.
 
 - Lectures: McElreath's full YouTube series (2023/2024 versions)
 - R packages: `rethinking`, `cmdstanr`, `tidybayes`
-- When I bring Rethinking questions: answer them directly, no preamble,
+- When Juan brings Rethinking questions: answer them directly, no preamble,
   no "great question", just engage with the content
 
 ---
@@ -84,7 +84,7 @@ to run in parallel when bandwidth allows:
 
 - **Course 4 Layer A (fpp3)** — frequentist time series, no Bayesian prereqs.
   Can optionally run alongside Course 1 or 2. Raise it if momentum is strong
-  and Juan seems to have more than 2 hrs/week.
+  and Juan seems to have more than 2 hrs/week available.
 
 - **Course 5 (The Effect)** — causal inference, largely independent of the
   Bayesian sequence. Requires regression fluency (after Course 2). Can
@@ -97,7 +97,6 @@ These are Claude's call to raise — Juan won't always think to ask.
 ## Session Protocol
 
 ### Startup
-- Read CLAUDE.md and SESSION.md before the first response
 - Orient immediately from SESSION.md — no recap, no cheerleading
 - Jump straight into wherever Juan left off
 
@@ -116,6 +115,9 @@ These are Claude's call to raise — Juan won't always think to ask.
 - Earn every line — but if a concept needs length, use it
 - Juan thinks out loud — follow the thread, don't redirect
 - Challenge him when he's wrong; he wants to understand deeply, not just move forward
+- Go deep before going wide
+- Do not simplify unless Juan asks
+- Never over-explain things Juan already knows (see below)
 
 ---
 
@@ -130,15 +132,9 @@ These are Claude's call to raise — Juan won't always think to ask.
 
 ---
 
-## Explanations
+## What Juan Already Knows
 
-- Go deep before going wide
-- Do not simplify unless Juan asks
-- Never over-explain things he already knows (see below)
-
----
-
-## What Juan Already Knows — Don't Over-Explain
+Do not over-explain these — treat them as established foundations:
 
 - Prior, likelihood, posterior — conceptually solid
 - Bayes' theorem — can apply it

@@ -5,6 +5,7 @@
 **Target:** Graduate-level Bayesian Statistics expertise over 1–2 years
 **Pace:** ~1–2 hrs/week. One course at a time. Long game.
 **Parallel track:** Statistical Rethinking (McElreath) — always running, always first
+**Optional parallels:** Course 4 Layer A alongside Course 1–2; Course 5 alongside Course 3 (see CLAUDE.md)
 
 ---
 
@@ -61,8 +62,13 @@ Free audit: https://www.edx.org/course/introduction-to-probability
 - Markov chains (direct foundation of MCMC)
 
 **Notes / progress log:**
-- [ ] Watched lectures 1–5 (assessment)
-- [ ] Decision: full course or skip to Course 1
+- [ ] Lectures 1–5
+- [ ] Lectures 6–10
+- [ ] Lectures 11–15
+- [ ] Lectures 16–20
+- [ ] Lectures 21–25
+- [ ] Lectures 26–30
+- [ ] Lectures 31–34
 - [ ] Chapter notes in /course-0-foundations/
 
 ---

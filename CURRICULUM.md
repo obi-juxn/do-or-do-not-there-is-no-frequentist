@@ -12,7 +12,7 @@
 
 | # | Course | Textbook | Status |
 |---|--------|----------|--------|
-| 0 | Probability Foundations | Blitzstein & Hwang — *Introduction to Probability* | 🔄 Assessing |
+| 0 | Probability Foundations | Blitzstein & Hwang — *Introduction to Probability* | 🔄 In progress |
 | 1 | Bayesian Core | Johnson, Ott & Dogucu — *Bayes Rules!* | 🔲 Not started |
 | 2 | Bayesian Regression & GLMs | Gelman, Hill & Vehtari — *Regression and Other Stories* | 🔲 Not started |
 | 3 | Graduate Bayesian Flagship | Gelman et al. — *Bayesian Data Analysis* (BDA3) | 🔲 Not started |
@@ -44,9 +44,8 @@ given how central Beta priors are in MMM work.
 
 **R integration:** End-of-chapter simulation sections use R throughout.
 
-**Assessment rule:** Watch lectures 1–5. If they feel too easy, mark this
-course ⏭ and advance to Course 1. If lecture 4–5 creates friction, do
-the full course.
+**Decision:** Doing the full course. Pursuing HarvardX certification via edX.
+Free audit: https://www.edx.org/course/introduction-to-probability
 
 **Key topics:**
 - Counting, sample spaces, probability axioms

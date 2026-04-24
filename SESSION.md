@@ -6,16 +6,17 @@
 ---
 
 ## Last session date
-<!-- e.g. 2026-04-23 -->
+2026-04-23
 
 ## Current position
-<!-- Course, chapter, lecture number, or specific topic -->
+Course 0 — Probability Foundations (Blitzstein, Stat 110). Not yet started lectures.
 
 ## Where I stopped
-<!-- One or two sentences. What was the last thing covered or worked on? -->
+Set up the repo. Decided to do the full Stat 110 course (not just assess)
+because of the HarvardX edX certification. Haven't started lectures yet.
 
 ## Open questions / things to return to
-<!-- Anything unresolved, confusing, or worth revisiting next time -->
+- Enroll in HarvardX edX course (free audit): https://www.edx.org/course/introduction-to-probability
 
 ## Next action
-<!-- The very first thing to do next session — be specific -->
+Watch Stat 110 Lecture 1 on YouTube. Enroll on edX if pursuing the cert.
